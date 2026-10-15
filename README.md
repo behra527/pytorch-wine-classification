@@ -246,6 +246,4 @@ This project provided practical experience with exploratory data analysis, featu
 
 It also demonstrates the importance of distinguishing performance on a small test split from reliable generalization to unseen samples.
 
-## License
 
-This project is licensed under the MIT License. Add a `LICENSE` file to the repository if you intend to distribute it under that license.
