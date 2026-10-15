@@ -153,11 +153,4 @@ This project provided practical experience with exploratory data analysis, featu
 
 It also reinforced the importance of evaluating generalization instead of relying only on accuracy from a single test split.
 
-## License
-
-This project is intended for educational and portfolio purposes. If you choose the MIT License, include a `LICENSE` file containing the standard MIT License text.
-
-
-
-**Author:** Your GitHub username
 
